@@ -8,9 +8,6 @@
         <requirement type="package" version="@TOOL_VERSION@">r-upsetr</requirement>
         <requirement type="package" version="24.0.0">r-arrow</requirement>
     </requirements>
-    <required_files>
-        <include path="utils.r" />
-    </required_files>
 
     <creator>
         <person
